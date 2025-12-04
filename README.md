@@ -132,7 +132,7 @@ Configured with:
 
 Open the notebook:
 
-`notebook.ipynb`
+`loan-default-prediction.ipynb`
 
 ---
 
